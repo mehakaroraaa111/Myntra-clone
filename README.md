@@ -1,20 +1,66 @@
+# 🛍️ Myntra Clone (HTML & CSS)
 
-# Myntra Clone
+This is a **frontend UI clone of Myntra** built using **HTML and CSS**.  
+The project focuses on improving layout design, positioning, and frontend development fundamentals.
 
-A frontend clone of the Myntra homepage built using HTML and CSS.
+---
 
-## Features
+## 🌐 Live Demo
+
+👉 https://sparkly-axolotl-15e78f.netlify.app/
+
+---
+
+
+
+## 🚀 Features
+
 - Responsive navigation bar
-- Search bar
-- Profile, Wishlist and Bag icons
-- Promotional banner
-- Product categories section
-- Footer section
+- Search bar UI
+- Profile, Bag & Wishlist icons
+- Hero banner section
+- Product category sections
+- Footer layout similar to real e-commerce site
 
-## Technologies Used
-- HTML5
-- CSS3
-- Google Material Icons
+---
 
-## Project Status
-Completed basic frontend clone.
+## 🛠️ Tech Stack
+
+- HTML5  
+- CSS3  
+- Google Material Symbols (Icons)
+
+---
+
+## 🎯 Purpose of Project
+
+This project was built to:
+- Practice real-world website layout structure
+- Improve HTML & CSS skills
+- Understand flexbox and positioning
+- Build a clone of a real e-commerce UI
+
+---
+
+## 💡 Learnings
+
+- Structuring large HTML pages
+- CSS Flexbox layout system
+- Handling UI components like navbar & footer
+- Using Google Fonts & Icons
+- Basic frontend deployment using Netlify
+
+---
+
+## 🚀 Deployment
+
+Deployed using **Netlify** via drag-and-drop method.
+
+---
+
+## 👨‍💻 Author
+
+**Mehak**
+---
+
+Feel free to star this repository and connect with me for collaboration or feedback.
