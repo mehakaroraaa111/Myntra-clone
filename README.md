@@ -7,7 +7,7 @@ The project focuses on improving layout design, positioning, and frontend develo
 
 ## 🌐 Live Demo
 
-👉 https://boisterous-maamoul-3ea30b.netlify.app/
+👉 https://loquacious-muffin-ee9102.netlify.app/
 
 ---
 
