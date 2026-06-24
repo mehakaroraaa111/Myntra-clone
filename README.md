@@ -7,7 +7,7 @@ The project focuses on improving layout design, positioning, and frontend develo
 
 ## 🌐 Live Demo
 
-👉 https://sparkly-axolotl-15e78f.netlify.app/
+👉 https://boisterous-maamoul-3ea30b.netlify.app/
 
 ---
 
