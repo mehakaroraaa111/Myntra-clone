@@ -5,11 +5,7 @@ The project focuses on improving layout design, positioning, and frontend develo
 
 ---
 
-## 🌐 Live Demo
 
-👉 https://loquacious-muffin-ee9102.netlify.app/
-
----
 
 
 
